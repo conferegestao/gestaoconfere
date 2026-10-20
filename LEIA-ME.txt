@@ -1,0 +1,17 @@
+CONFERE CONTABILIDADE — SITE
+
+Arquivos:
+- index.html: estrutura e conteúdo do site
+- style.css: estilos, cores e layout responsivo
+- script.js: menu mobile e ano automático do rodapé
+
+COMO USAR
+1. Extraia os três arquivos para a mesma pasta (ou envie os arquivos juntos para sua hospedagem).
+2. Abra index.html no navegador para visualizar.
+3. Para publicar, envie os arquivos para a pasta pública do seu serviço de hospedagem.
+
+PERSONALIZAÇÃO IMPORTANTE
+- Os dados de e-mail e telefone fornecidos estavam parcialmente mascarados, por isso não foram inventados nem publicados como contatos clicáveis.
+- Os artigos incluídos são conteúdos editoriais iniciais e gerais, não notícias em tempo real. Atualize a seção Notícias com artigos revisados pela equipe antes de usar como portal atualizado.
+- O site usa Google Fonts; se estiver sem internet, o navegador utilizará fontes alternativas.
+- Confirme com a empresa os dados cadastrais e os serviços descritos antes da publicação.
